@@ -6,7 +6,7 @@
 
 **`Software Engineer`**
 
-I'm a full-stack developer with a passion for building software and solving problems. I enjoy exploring complext technical ideas and am always on a journey to improve myself. I'm vastly interested in and driven to take on the ever-evolving world of technology and its numerous capabilities. 
+I'm a full-stack developer with a passion for building software and solving problems. I enjoy exploring complex technical ideas and am always on a journey to improve myself. I'm vastly interested in and driven to take on the ever-evolving world of technology and its numerous capabilities. 
 
 
 <div align="left">
