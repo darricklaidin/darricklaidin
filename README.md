@@ -30,5 +30,3 @@ I'm a full-stack developer with a passion for building software and solving prob
     <img alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
 
----
-
