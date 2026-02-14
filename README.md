@@ -8,22 +8,6 @@
 
 I'm a full-stack developer with a passion for building software and solving problems. I enjoy exploring complex technical ideas and am always on a journey to improve myself. I'm vastly interested in and driven to take on the ever-evolving world of technology and its numerous capabilities. 
 
-
-<div align="left">
-    <a href="https://linkedin.com/in/darricklaidin">
-    <img alt="linkedin"
-    style="padding-right:10px;" 
-    title="Connect with me on LinkedIn" 
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://github.com/darricklaidin?tab=repositories">
-    <img alt="github repositories" 
-    style="padding-right:10px;" 
-    title="Check out my GitHub repositories" 
-    src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo">
-    </a>
-</div>
-
 ---
 
 ### ⚒️ Languages & Tools
@@ -47,12 +31,4 @@ I'm a full-stack developer with a passion for building software and solving prob
 </div>
 
 ---
-
-### 📊 Stats
-
-<br>
-
-[![Darrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=darricklaidin&count_private=true&show_icons=true&theme=vue)](https://github.com/darricklaidin?tab=repositories)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darricklaidin&langs_count=5&hide=cmake,html,css)
 
